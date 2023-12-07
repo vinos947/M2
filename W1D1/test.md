@@ -1,4 +1,5 @@
 JS BASICS
+
     - Cos'è un algoritmo?
     Un algoritmo è l'insieme di tutti quei passaggi che servono a risolvere un problema o una soluzione tramite passaggi specifici ben chiari e definiti,
     ottenendo esattamente il risultato previsto
